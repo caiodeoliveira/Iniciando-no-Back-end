@@ -1,2 +1,4 @@
-# Iniciando-no-Back-end
-Aplicações e desafios de Javascript no Back-end
+# :fire: Desafios e práticas
+
+## Tecnologias: Javascript + Express + Nunjucks + CSS
+
